@@ -1,5 +1,5 @@
 ;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: FLEXI-STREAMS-TEST; Base: 10 -*-
-;;; $Header: /usr/local/cvsrep/flexi-streams/test/test.lisp,v 1.40 2008/07/25 09:56:12 edi Exp $
+;;; $Header: /usr/local/cvsrep/flexi-streams/test/test.lisp,v 1.39 2008/05/30 09:10:55 edi Exp $
 
 ;;; Copyright (c) 2006-2008, Dr. Edmund Weitz.  All rights reserved.
 

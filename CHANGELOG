@@ -1,3 +1,7 @@
+Version 1.0.8
+Make write-sequence call transform-octet (Jason Miller)
+Fix for CMUCL (Raymond Toy, Xu Jingtao)
+
 Version 1.0.7
 2008-08-26
 Don't read a second time if the first READ-SEQUENCE already reached EOF (Drakma bug report by Stas Boukarev)
@@ -51,7 +55,7 @@ More tests
 
 Version 0.15.0
 2008-05-21
-Complete redesign, various additions, bugfixes, performance improvements (with the help of Hans Hübner)
+Complete redesign, various additions, bugfixes, performance improvements (with the help of Hans HÃ¼bner)
 
 Version 0.14.0
 2007-12-30
